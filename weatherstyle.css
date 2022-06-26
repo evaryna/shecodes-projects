@@ -1,0 +1,54 @@
+body {
+  background-image: url("https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-size: cover;
+}
+
+.card {
+  margin-top: 50px;
+  border-color: #baa5a5;
+  background: transparent;
+  backdrop-filter: blur(5px);
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+.main {
+  margin: 50px 50px;
+}
+
+.week {
+  text-align: left;
+  line-height: 2;
+  padding: 10px 0 10px 60px;
+  color: #3b5674;
+  border-radius: 10px;
+  background-color: #ffffff35;
+  backdrop-filter: blur(14.5px);
+}
+
+.col {
+  width: 60px;
+}
+
+form {
+  margin: 0 50px;
+}
+
+.form-control {
+  background-color: #ffffff35;
+  backdrop-filter: blur(14.5px);
+  border-color: #baa5a5;
+}
+
+.btn {
+  background-color: #ffffff35;
+  backdrop-filter: blur(14.5px);
+  border-color: #baa5a5;
+}
